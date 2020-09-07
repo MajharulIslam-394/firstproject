@@ -1,0 +1,26 @@
+body{color:#ffff00; background-image:url("Images/5.jpg") no-repeat 400px 400px; line-height:30px; margin:45px; font-family: 'Red Rose', cursive;}
+h1{background-color:blue; text-decoration:Underline; Width:504px; box-shadow: 4px 4px 4px 4px  #663300; font-size:33px; }
+p{font-size:23px; font-family: 'Red Rose', cursive;}
+h3{font-size:30px; text-decoration:Underline;}
+body{background-color:#ffb900; font-size: 16px; font-family:Arial; font-weight:bold; }
+h2{text-decoration:Underline; font-size:30px; text-align:left-side;}
+img{height:300px;Width:400px;}
+background-image{height:100%; Width:100%;}
+iframe{width:397px; height:300px;}
+marquee{font-size:24px;font-weight:bold; font-family:Arial; text-shadow: 10px 7px 1px #663300;}
+table{width:600px; border:2px; border-collapse:collapse; height:40px;}
+table, td, th{border:5px double green;}
+th{background-color: #3366ff;}
+td{text-align:right; color: #003300;}
+.heading_one{font-size:33px; color:#00e6b8; background-color:#ff0000;}
+form{color:#000066;border-radius:4px 4px 4px 4px;}
+Button{Background-color: #e6005c; Width: 166px; height: 37px; border-radius: 22px 22px 22px 22px;}
+button:hover{color:#00ff00; background-color:#006600; font-size:20px;}
+submit{color:yellow;}
+.main{width:960px;}
+.left_part{width:405px;margin-left:50px; margin-right:50px; float:left; text-align:justify;}
+.right_part{width:405px;margin-right:50px; float:right; text-align:justify;}
+.menu{margin:o; padding:0; list-style:none;}
+.menu li{float:left; border: 1px solid black; width:238px; background-color:#85e0e0;}
+.menu li a{text-decoration:none; padding:15px; display:block;}
+.menu li a:hover{color:#ebebe0; background-color:#999966; font-size:18px;}
